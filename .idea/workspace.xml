@@ -1,26 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="56f9f166-15ef-4342-bfc9-815fd9e9f6f2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/animals.html" beforeDir="false" afterPath="$PROJECT_DIR$/animals.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/birds.html" beforeDir="false" afterPath="$PROJECT_DIR$/birds.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/insects.html" beforeDir="false" afterPath="$PROJECT_DIR$/insects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lighthouses.html" beforeDir="false" afterPath="$PROJECT_DIR$/lighthouses.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/luke.html" beforeDir="false" afterPath="$PROJECT_DIR$/luke.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moon-and-sunset.html" beforeDir="false" afterPath="$PROJECT_DIR$/moon-and-sunset.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nature.html" beforeDir="false" afterPath="$PROJECT_DIR$/nature.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oakley.html" beforeDir="false" afterPath="$PROJECT_DIR$/oakley.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plants.html" beforeDir="false" afterPath="$PROJECT_DIR$/plants.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random-objects.html" beforeDir="false" afterPath="$PROJECT_DIR$/random-objects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random-people.html" beforeDir="false" afterPath="$PROJECT_DIR$/random-people.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simon.html" beforeDir="false" afterPath="$PROJECT_DIR$/simon.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structures.html" beforeDir="false" afterPath="$PROJECT_DIR$/structures.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +39,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/christiantraxler/Desktop/Current-Projects/Photography-With-An-iPhone-testing",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -65,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696367010470</updated>
       <workItem from="1696367011572" duration="55643000" />
-      <workItem from="1697123961388" duration="1900000" />
+      <workItem from="1697123961388" duration="6236000" />
     </task>
     <servers />
   </component>
