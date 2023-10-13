@@ -82,7 +82,7 @@ img[src*="iphone-logo"] {
 
 .desktop { position: relative; }
 
-.mobile { display: none; }
+.mobile{ display: none; }
 
 .info {
     grid-area: info;
@@ -315,7 +315,7 @@ ul.breadcrumb li a:hover {
 .before > h3 {
     position: relative;
     overflow-wrap: initial;
-    font-size: 28px;
+    font-size: 2vw;
     padding: 6px;
 }
 
