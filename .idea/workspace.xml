@@ -4,38 +4,7 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56f9f166-15ef-4342-bfc9-815fd9e9f6f2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/animals/luke/IMG_1736.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/animals/luke/IMG_1736.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/animals/luke/IMG_8613.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/animals/luke/IMG_8613.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/animals/oakley/IMG_0491(2).png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/animals/oakley/IMG_0491(2).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/animals/oakley/IMG_0992.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/animals/oakley/IMG_0992.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/animals/oakley/IMG_1136(2).png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/animals/oakley/IMG_1136(2).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/animals/oakley/IMG_1136.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/animals/oakley/IMG_1136.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/animals/oakley/IMG_7180.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/animals/oakley/IMG_7180.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/animals/oakley/IMG_8153.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/animals/oakley/IMG_8153.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/animals/oakley/IMG_9781.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/animals/oakley/IMG_9781.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/animals/simon/IMG_2798(2).png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/animals/simon/IMG_2798(2).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/animals/simon/IMG_2798.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/animals/simon/IMG_2798.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/animals/simon/IMG_4458.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/animals/simon/IMG_4458.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/animals/simon/IMG_7112.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/animals/simon/IMG_7112.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/nature/birds/IMG_2126.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/nature/birds/IMG_2126.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/nature/birds/IMG_2130.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/nature/birds/IMG_2130.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/nature/insects/IMG_0929(2).png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/nature/insects/IMG_0929(2).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/nature/insects/IMG_4649.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/nature/insects/IMG_4649.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/nature/macro/IMG_2545.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/nature/macro/IMG_2545.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/nature/mcgalliard-falls-park/IMG_2391.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/nature/mcgalliard-falls-park/IMG_2391.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/random-people/IMG_1729(2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/random-people/IMG_1729.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/random-people/IMG_1961.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moon-and-sunset.html" beforeDir="false" afterPath="$PROJECT_DIR$/moon-and-sunset.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nature.html" beforeDir="false" afterPath="$PROJECT_DIR$/nature.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random-objects.html" beforeDir="false" afterPath="$PROJECT_DIR$/random-objects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random-people.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/structures.html" beforeDir="false" afterPath="$PROJECT_DIR$/structures.html" afterDir="false" />
-    </list>
+    <list default="true" id="56f9f166-15ef-4342-bfc9-815fd9e9f6f2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +50,7 @@
       <updated>1696367010470</updated>
       <workItem from="1696367011572" duration="55643000" />
       <workItem from="1697123961388" duration="16753000" />
-      <workItem from="1697990412138" duration="8606000" />
+      <workItem from="1697990412138" duration="9490000" />
     </task>
     <servers />
   </component>
