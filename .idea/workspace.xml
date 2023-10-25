@@ -4,7 +4,11 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56f9f166-15ef-4342-bfc9-815fd9e9f6f2" name="Changes" comment="" />
+    <list default="true" id="56f9f166-15ef-4342-bfc9-815fd9e9f6f2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/valdese.html" beforeDir="false" afterPath="$PROJECT_DIR$/valdese.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +54,7 @@
       <updated>1696367010470</updated>
       <workItem from="1696367011572" duration="55643000" />
       <workItem from="1697123961388" duration="16753000" />
-      <workItem from="1697990412138" duration="10095000" />
+      <workItem from="1697990412138" duration="11680000" />
     </task>
     <servers />
   </component>
