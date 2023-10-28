@@ -89,12 +89,18 @@ img[src*="iphone-logo"] {
     background-color: brown;
 }
 
+hr {
+    margin: auto;
+    border: 1px solid #FF4500;
+    width: 80%;
+}
+
 .welcome {
     grid-area: welcome;
     position: relative;
 }
 
-.welcome > h1 {
+.welcome > h1, h3 {
     padding: 60px 0;
     font-size: var(--size-40);
     text-align: center;

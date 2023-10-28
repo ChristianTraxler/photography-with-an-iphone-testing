@@ -189,7 +189,7 @@
     .before-after {
         grid-template-columns: initial;
         gap: 2%;
-        padding-bottom: 320px;
+        /*padding-bottom: 320px;*/
     }
 
     .before > h3 { font-size: 6vw; }
