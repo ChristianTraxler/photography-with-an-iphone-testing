@@ -46,6 +46,11 @@ nav > ul > li { display: block; }
 nav > ul > li > a {
     color: #C0C2C3;
     text-decoration: none;
+    background: linear-gradient(110deg, #FF4500 0.07%, #F46772 46.07%, #AF33E4 95.21%);;
+    -webkit-text-fill-color: transparent;
+    background-size: cover;
+    background-clip: text;
+    -webkit-background-clip: text;
 }
 
 /*ul {*/
@@ -383,6 +388,7 @@ ul.breadcrumb li a:hover {
 .before-after {
     display: grid;
     grid-template-columns: repeat(2, 50%);
+    grid-row-gap: 5%;
 }
 
 .card-container { padding: 18px 20px 10px; }
@@ -820,6 +826,11 @@ img[src*="mail"] {
 .email {
     text-decoration: none;
     color: var(--white);
+    background: linear-gradient(110deg, #FF4500 0.07%, #F46772 46.07%, #AF33E4 95.21%);;
+    -webkit-text-fill-color: transparent;
+    background-size: cover;
+    background-clip: text;
+    -webkit-background-clip: text;
 }
 
 img[src*="mobile"] {
